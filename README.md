@@ -8,4 +8,5 @@ Neural Processing Letters, 2017, 45(2):365-378.
 Use Discrete Wavelet Transform (Waveletpacket Decomposition in the paper) and Autoregressive Model to extract the features of EEG signals. Use Support Vector Machine as classifier.<br>
 DWT is used to get the frequency bands corresponding to mu-rhythm and beta-wave.
 ## Dataset
-BCI Competition 2003 Dataset III
+BCI Competition 2003 Dataset III.<br>
+The file **description.doc** contains detailed information about the dataset.
